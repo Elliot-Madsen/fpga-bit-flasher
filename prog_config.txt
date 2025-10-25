@@ -1,0 +1,6 @@
+# =================================================================
+# Configuration
+# =================================================================
+XRT_BIN_PATH = "/opt/xilinx/xrt/bin"
+XBUTIL_CMD = os.path.join(XRT_BIN_PATH, "xbutil")
+TARGET_DEVICE = ""
